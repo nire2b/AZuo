@@ -2,8 +2,6 @@ package systemclass.class3;
 
 import org.junit.Test;
 
-import java.util.Stack;
-
 public class MinStack {
     public int[] value;
     public int[] minV;
